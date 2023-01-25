@@ -2,7 +2,7 @@
 #ignore files
 *.db
 *.log
-
+.un~
 #ignore directories
 target/
 bin/
