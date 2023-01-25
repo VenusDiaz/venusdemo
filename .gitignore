@@ -1,0 +1,10 @@
+
+#ignore files
+*.db
+*.log
+
+#ignore directories
+target/
+bin/
+
+#ignore commit
